@@ -98,7 +98,8 @@ namespace Andalusian
                 string key = line.Substring(0, colonIdx).Trim();
                 string value = line.Substring(colonIdx + 1).Trim().Replace('@', '\n');
 
-                andalusianLanguage.Add(key, value);
+                if (value != string.Empty)
+                    andalusianLanguage.Add(key, value);
             }
         }
     }

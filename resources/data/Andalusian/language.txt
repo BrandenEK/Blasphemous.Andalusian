@@ -73,7 +73,6 @@ UI_PatchNotes/PATCH_2_0_NOTE_6: Cambiô en lô NPC:@@- Çe puede encontrâh un n
 UI_PatchNotes/PATCH_2_0_NOTE_7: Boçêh:@@- Çe an añadío boçê en êppañôh. El idioma de la bôh çe puede cambiâh en er menú de ôççionê.@- Argunô de lô diálogô êççîttentê en inglêh çe an buerto a grabâh.
 UI_PatchNotes/PATCH_2_0_NOTE_8: Mîcc:@@- Una mîtterioça caha de limônnâ çe puede encontrâh dentro de la igleçia en Arbero.@- Çe an añadío ehecuçionê a lô çigientê enemigô:@    - Ermana del Rôttro Carboniçao@    - Lança de la Cátedra@    - Guardainfante@    - Lunático@    - Palaris@    - Çepurcro Errante@    - Cartô@- Çiertâ abilidadê de Penitente aora aturdirán a êttô enemigô cuando çe uçen en er momento adecuao.
 UI_PatchNotes/PATCH_2_0_NOTE_9: Arte, Nibelêh:@@- Lâ çigientê áreâ aora cuentan con nuebô elementô artítticô:@    - Yermo de lâ Igleçiâ Enterrâh@    - Tumba de la Miçericordia@    - Âççiende er Quehío@    - Patio de lô Caminarê Çordô@    - Puente de lô Trêh Carbariô@    - Árbô Férreo@    - Muraya de lâ Çantâ Proibiçionêh@- Çe pueden encontrâh nuebô abitantê en la çiudá, incluío un peludo nuebo amigo. Êh mu guen xico.
-UI_PatchNotes/PATCH_2_0_VERSION: 2
 UI_PatchNotes/PATCH_3_0_NOTE_1: Modo Çagráô Peçarêh:@@- Combate contra tôh lô hefê de Blâffemû en êtte nuebo modo "Boss Rush".@- 5 çircuitô dêbbloqueablê diferentê, cá uno con 2 dificurtadê.@- Trata de çuperâh tu mehôh tiempo y arcança el rango máççimo.
 UI_PatchNotes/PATCH_3_0_NOTE_2: Lô Deçafíô de Miriam:@@@@- Una miçión completamente nueba en la que açe çu apariçión Miriam, la protagonîtta de Bloôttainé - Rituâh of te Nîtt.@@- Pa podêh regreçâh a çu mundo deberâh recuperâh lô frâmmentô de crîttâh çituáô ar finâh de 5 deçafíô ocurtô.
 UI_PatchNotes/PATCH_3_0_NOTE_3: Arte:@@- Çe a añadío un nuebo fondo pa er menú prinçipâh.@- Çe an retocao bariô elementô de nibelê ya êççîttentê.@- Çe an añadío nuebâ êççenâ animâh ar huego.
@@ -81,7 +80,6 @@ UI_PatchNotes/PATCH_3_0_NOTE_4: Boçêh:@@- Çe an grabao líneâ en inglêh y �
 UI_PatchNotes/PATCH_3_0_NOTE_5: Nuebô ôhhetô:@@@@- Çe a añadío una nueba Plegaria.@@- Çe a añadío una nueba Cuenta de Roçario.
 UI_PatchNotes/PATCH_3_0_NOTE_6: Idiomâh:@@@@- Añadida la tradûççión al idioma coreano.@@- Çe an correhío errorê en bariô idiomâ.
 UI_PatchNotes/PATCH_3_0_NOTE_7: Mîcc:@@@@- Incluida una nueba área retro ocurta.@@- Çe a añadío un nuebo menú de modô de renderiçao.@@- Çe a añadío un nuebo menú pa conçurtâh lô logrô de Blâffemû.@@- Çe a agregao una alerta en er huego que abiça cuando un logro a çido dêbbloqueao.@@- Çe an reahûttao lâ condiçionê de miçión de Diôddao.
-UI_PatchNotes/PATCH_3_0_VERSION: 3
 UI_PatchNotes/PATCH_4_0_NOTE_1: La Erida del Ocaço:@@- Çe a añadío un nuebo finâh dêbbloqueable con una miçión completamente nueba.
 UI_PatchNotes/PATCH_4_0_NOTE_2: Cûttodia:@@- Un área nueba yamá "Luto y Êttrago" êh aora âççeçible en Cûttodia.@- "La Ermandá der Lamento Mudo" y "Ecô de Çal" an aumentao de tamaño, con nuebô lugarê pa êpplorâh.@- Dôh nuebô deçafiantê hefê açexan lâ profundidadê de Cûttodia.
 UI_PatchNotes/PATCH_4_0_NOTE_3: Arte:@@- Çe a añadío un nuebo fondo pa er menú prinçipâh.@- Çe an retocao bariô elementô de nibelê ya êççîttentê.@- Çe an añadío nuebâ êççenâ animâh ar huego.
@@ -91,7 +89,6 @@ UI_PatchNotes/PATCH_4_0_NOTE_6: Boçêh:@@- Nuebâ líneâ an çido grabâh pa t
 UI_PatchNotes/PATCH_4_0_NOTE_7: Nuebô ôhhetô:@@- Çe an añadío nuebâ Cuentâ de Roçario.@- Çe an añadío nuebâ Plegariâ.@- Çe a añadío un nuebo Coraçón de Mea Curpa.@- Çe an añadío bariô ôhhetô de miçionê.
 UI_PatchNotes/PATCH_4_0_NOTE_8: Idiomâh:@@- Çe an correhío errorê en bariô idiomâ.
 UI_PatchNotes/PATCH_4_0_NOTE_9: Mîcc:@@- Añadíô 6 âppêttô dêbbloqueablê adiçionalê ar huego.@- Lâ ranurâ de ôhhetô equipablê aora coinçiden con er número de ôhhetô ôtteniblê en cá categoría.
-UI_PatchNotes/PATCH_4_0_VERSION: 4
 UI_PatchNotes/PATCH_NOTES: Notâ der Parxe
 UI_Controls/ATTACK: Ataque
 UI_Controls/DASH: Êqquiba
@@ -131,7 +128,6 @@ UI_Penitences/PE01_NAME: Penitençia de la Fe Inquebrantable
 UI_Penitences/PE02_NAME: Penitençia der Coraçón Çangrante
 UI_Penitences/PE03_NAME: Penitençia de la Curpa Berdadera
 UI_Penitences/NO_PENITENCE: Çin Penitençiâ
-UI_Penitences/NO_PENITENCE_INFO: 
 UI_Penitences/CHOOSE_PENITENCE_CONFIRMATION: Puedê realiçâh un çolo huramento, ¿deçeâ emprendêh êtta penitençia?
 UI_Penitences/CHOOSE_NO_PENITENCE_CONFIRMATION: Êtta deçiçión êh irreberçible. Puedê cançelâh un huramento una bêh elehío. Aún açí, ¿deçeâ no êccohêh ninguna penitençia?
 UI_Penitences/CHOOSE_PENITENCE_ABANDON: Êtta deçiçión êh irreberçible. ¿Deçeâ abandonâh er huramento âttuâh?
@@ -244,25 +240,14 @@ Map/D05_Z03: Lô Liençô Durmientê
 Map/D05_Z04: Lô Liençô Durmientê
 Map/D06: Artô de la Arxicatedrâh
 Map/D06_Z01: Artô de la Arxicatedrâh
-Map/D06_Z02: 
-Map/D06_Z03: 
-Map/D06_Z04: 
 Map/D07: Deambulatorio de Çu Çantidá
 Map/D07_Z01: Deambulatorio de Çu Çantidá
-Map/D07_Z02: 
-Map/D07_Z03: 
 Map/D08: Puente de lô Trêh Carbariô
 Map/D08_Z01: Puente de lô Trêh Carbariô
 Map/D08_Z02: Árbô Férreo
 Map/D08_Z03: Galería de lô Arborê
 Map/D09: Muraya de lâ Çantâ Proibiçionê
 Map/D09_Z01: Muraya de lâ Çantâ Proibiçionê
-Map/D10: 
-Map/D10_Z01: 
-Map/D11: 
-Map/D11_Z01: 
-Map/D12: 
-Map/D12_Z01: 
 Map/D17: Ermandá der Lamento Mudo
 Map/D17_Z01: Ermandá der Lamento Mudo
 Map/D20: Ecô de Çâh
@@ -575,11 +560,9 @@ UI_Achievements/LABEL_HIDDEN_HEADER: Logro ocurto
 UI_Achievements/LABEL_HIDDEN_DESC: Çige hugando pa rebelâl-lo
 UI_Achievements/LABEL_MENU_ACHIEVEMENTS: Logrô
 UI_Achievements/LABEL_ACHIEVEMENT_UNLOCKED: Logro dêbbloqueao
-CUTSCENE/CTS02-Bloody Baptism_0: 
 CUTSCENE/CTS04-Dagger_Lady_0: Dixoçô lô ohô que con deboçión ben mi coraçón atormentao.
 CUTSCENE/CTS04-Dagger_Lady_1: Que çe açerque quien cuyô contentô çon er padeçimiento y lô ayunô, puê çon grata penitençia.
 CUTSCENE/CTS04-Dagger_Lady_2: Çeî dolorê afiláô çahan mi pexo florío, tomá er primero de eyô y purgá una de buêttrâ çeî manxâ capitalê del arma.
-CUTSCENE/CTS05-Gates_0: 
 CUTSCENE/CTS07-Deosgracias_0: La Cuna de La Aflîççión êh lo que perçegîh.
 CUTSCENE/CTS07-Deosgracias_1: Êtta çe encuentra en la Madre de Madrê de lâ igleçiâ.
 CUTSCENE/CTS09-EndingB_0: La montaña de çeniça que enguyó pecáô y pecadorê por iguâh no a tenío piedá con bô tampoco.
@@ -592,7 +575,6 @@ CUTSCENE/CTS102-Santos1_2: De eyâ çurhía la Çaeta, la marxa que çe êttend�
 CUTSCENE/CTS103-Santos2_0: La paçión de Laudê, la primera Amaneçida, era îmmença. Era tar çu deboçión por El Retorçío que çu propio cuerpo no podía aguantâl-lo.
 CUTSCENE/CTS103-Santos2_1: Durante una noxe, çintió como lô porô de çu piêh çe abrían y de eyô començó a çalîh çu paçión mîmma que adôttó la forma de oro líquido.
 CUTSCENE/CTS103-Santos2_2: En aqueya larga noxe, eçe fino ilo çe fue tehiendo por obra de la Arta Boluntá, creando lô cuerpô de lâ otrâ cuatro muherê. Eyâ no çon mâh que la propia paçión de Laudê encânná.
-CUTSCENE/CTS12-Intro2_0: 
 CUTSCENE/IntroBrotherhood_0: Porque êh mi curpa, ô reclamo, Milagro Doloroço.@
 CUTSCENE/IntroBrotherhood_1: Açé que mi pexo çe duela de arrepentimiento.
 CUTSCENE/IntroBrotherhood_2: Forhá buêttro câttigo y clabâl-lo profundo.
@@ -609,13 +591,9 @@ CUTSCENE/PontiffEvent2_0: Çiento como mi çangre çe trâfforma en çabia negra
 CUTSCENE/PontiffEvent3_0: Beo tó dêdde lo mâh arto del árbô çeco en er que er Milagro me a reencânnao.
 CUTSCENE/PontiffEvent4_0: Ardo dêdde dentro açia afuera y mi umo êh una niebla que lo çiega tó.
 CUTSCENE/PontiffEvent5_0: Aora dêppierto de la çeniça de plata que abía çido mi cuna. Er Milagro me yama.
-CUTSCENE/Post-EndingA_0: 
-CUTSCENE/CTS105-LaudesAwakening_0: 
-CUTSCENE/CTS105-LaudesAwakening_1: 
 CUTSCENE/CTS106-LaudesIntro_0: Çaeta, que âh roto lô êppehô de mi tumba, ençiende lô ohô de mî çinco rôttrô muertô.
 CUTSCENE/CTS106-LaudesIntro_1: Mâh de mîh añô de condena an çido er câttigo por abêh permitío creçêh dentro de mí una birtuoça pero proibida paçión bordá en orô.
 CUTSCENE/CTS106-LaudesIntro_2: Pero çolo er Milagro conçede. Çolo er Milagro dêppoha.
-CUTSCENE/CTS10-EndingA_0: 
 BOSSES/DLG_BS102_01_0: Penitente, librâmme de êtta farça birtûh. Librâmme de êtta farça muerte.
 BOSSES/DLG_BS102_02_0: Beçao o no por er Milagro, buêttra penitençia termina aquí.
 BOSSES/DLG_BS102_03_0: Dêccançá aora hunto al refleho quebrao de mi tumba.
@@ -674,9 +652,6 @@ PROPS/DLG_CONFESSOR_NOTENOUGHPURGE_0: Borbé cuando poçeáî çufiçientê Lág
 PROPS/DLG_QT_BAPTISMAL_DRINK_0: ¿Unhirçe con el Óleo de lô Peregrinô?
 PROPS/DLG_QT_BAPTISMAL_DRINK_ANSWER_0: Unhirçe
 PROPS/DLG_QT_BAPTISMAL_DRINK_ANSWER_1: No
-PROPS/DLG_QT_BRIDGEELEVATOR_1_0: 
-PROPS/DLG_QT_BRIDGEELEVATOR_2_0: 
-PROPS/DLG_QT_BRIDGEELEVATOR_3_0: 
 PROPS/DLG_QT_CONFESSOR_0: ¿Limpiâh tu curpa a cambio de {purgepoints}
 PROPS/MSG_BAPTISMAL_0: Er ferbôh máççimo a aumentao.
 PROPS/MSG_CONFESSOR_GUILTREMOVED_0: La Curpa a çido êppiá.
@@ -827,12 +802,6 @@ ST03_TIRSO/DLG_0310_0: Miçericordioço çeáî, Penitente. Con buêttra aporta�
 ST03_TIRSO/DLG_0311_0: Er tiempo aí afuera trâccurre êttraño en atardeçerê que no nô êh menêttêh contemplâh.
 ST03_TIRSO/DLG_0311_1: Pero çi buêttra penitençia ô yeba baho dixô çielô, tené la caridá de traênnô argunô ingredientê pa nuêttrô unguentô.
 ST03_TIRSO/DLG_0312_0: La boluntá en er Milagro ô môttrará cualê çon.
-ST03_TIRSO/DLG_QT_0301_0: 
-ST03_TIRSO/DLG_QT_0302_0: 
-ST03_TIRSO/DLG_QT_0303_0: 
-ST03_TIRSO/DLG_QT_0304_0: 
-ST03_TIRSO/DLG_QT_0305_0: 
-ST03_TIRSO/DLG_QT_0306_0: 
 ST04_LVDOVICO/DLG_0401_0: Abéî yamao ar Tônno de la Orden der Henuino Çepurto.
 ST04_LVDOVICO/DLG_0402_0: Êtta pobre çagala...
 ST04_LVDOVICO/DLG_0402_1: Numeroçâ lágrimâ cayeron en çu beato nombre.
@@ -848,9 +817,6 @@ ST04_LVDOVICO/DLG_0405_0: La Orden ô bendiçe, Penitente en er çilençio.
 ST04_LVDOVICO/DLG_0406_0: Encontrá lô çigientê rêttô. La Orden ô bendiçe.
 ST04_LVDOVICO/DLG_0407_0: En êtte lugâh reunimô lô bêttihiô de tó aquêh que fue çeparao y orbidao, y açí podêh dâl-le çanta çepurtura, tar como ordena nuêttra caritatiba Regla.
 ST04_LVDOVICO/DLG_0407_1: Ayudá a êttâ pobrê armâ, Penitente en er çilençio. La Orden ô bendiçe.
-ST04_LVDOVICO/DLG_QT_0401_0: 
-ST04_LVDOVICO/DLG_QT_0402_0: 
-ST04_LVDOVICO/DLG_QT_0403_0: 
 ST04_LVDOVICO/MSG_0404_0: Çin rêppuêtta.
 ST05_DAGGER/DLG_0502_0: Tomá er çigiente de mî dolorê profundô.
 ST05_DAGGER/DLG_0503_0: Tomá el úrtimo de lô dolorê míô, er mâh profundo y afilao de tôh.
@@ -903,8 +869,6 @@ ST07_GEMINO/DLG_0704_1: Ya no puedo oîh al rêtto, çolo er cruhío de mî gue�
 ST07_GEMINO/DLG_0705_0: Dehâmme pedirô er fabôh de traerme unâ gotâ de lô óleô que una bêh çalieron de êttô olibô eláô y acabaron abraçando lô rôttrô de tó piaoço que yegaba a la çima.
 ST07_GEMINO/DLG_0705_1: Dehâmme çentîh eçe dolôh como mi úrtima boluntá antê de que çea demaçiao tarde pa mi.
 ST07_GEMINO/DLG_0706_0: Tomá êtto.
-ST07_GEMINO/DLG_QT_0701_0: 
-ST07_GEMINO/DLG_QT_0702_0: 
 ST07_GEMINO/MSG_0701_0: Çe neçeçita un ôhheto pa recohêh açeite de la pila.
 ST08_BROTHERS/DLG_0801_0: Ermana mía, como ô anunçié, argien çe dirihe a la puerta proibida.
 ST08_BROTHERS/DLG_0801_1: Argien que bûcca la purga y la êccomunión de tó lo çagrao que ayí dêccança.
@@ -970,13 +934,8 @@ ST09_SOCORRO/DLG_0916_0: Neçeçito reçâh.
 ST09_SOCORRO/DLG_0917_0: Ya no podrá protehêh a lô demâh der tormento de la çangre.
 ST09_SOCORRO/DLG_0917_1: La mîmma Aflîççión que le otorgó en er paçao tan doliente y milagroço fabôh a dao a lûh a un nuebo y terrible brote.
 ST09_SOCORRO/DLG_0917_2: ¿Ê êtte er câttigo de tantô añô de çantidá?
-ST09_SOCORRO/DLG_QT_0901_0: 
-ST09_SOCORRO/DLG_QT_0902_0: 
-ST09_SOCORRO/DLG_QT_0903_0: 
-ST09_SOCORRO/DLG_QT_0904_0: 
 ST09_SOCORRO/DLG_QT_0904_ANSWER_0: Açêh una ofrenda
 ST09_SOCORRO/DLG_QT_0904_ANSWER_1: Acabâh con çu çufrimiento
-ST09_SOCORRO/DLG_QT_0905_0: 
 ST10_CANDELARIA/DLG_1002_0: Cautibô der Milagro çeamô, Penitente.
 ST10_CANDELARIA/DLG_1003_0: Mirá lo que ô ençeño, aunque êh una pequeña pieça no ay que menôppreçiâh çu gran poderío.
 ST10_CANDELARIA/DLG_1003_1: Fiarô de mi, que tengo çangre de reyê en la parma de la mano.
@@ -994,16 +953,6 @@ ST10_CANDELARIA/DLG_1010_3: Adelante, poçá buêttrô ohô ôccureçíô en êt
 ST10_CANDELARIA/DLG_1012_0: Borbé cuando tengaî mâh Lágrimâ de Êmmienda.
 ST10_CANDELARIA/DLG_1013_0: Y que lâ campanâ me doblen çi ô engaño arguna bêh.
 ST10_CANDELARIA/DLG_1014_0: Y que lâ campanâ me doblen çi ô engaño arguna bêh.
-ST10_CANDELARIA/DLG_QT_1001_0: 
-ST10_CANDELARIA/DLG_QT_1002_0: 
-ST10_CANDELARIA/DLG_QT_1003_0: 
-ST10_CANDELARIA/DLG_QT_1004_0: 
-ST10_CANDELARIA/DLG_QT_1005_0: 
-ST10_CANDELARIA/DLG_QT_1006_0: 
-ST10_CANDELARIA/DLG_QT_1007_0: 
-ST10_CANDELARIA/DLG_QT_1008_0: 
-ST10_CANDELARIA/DLG_QT_1009_0: 
-ST10_CANDELARIA/DLG_QT_1010_0: 
 ST10_CANDELARIA/MSG_1001_0: La yabe çe a roto.
 ST11_SERENO/DLG_1101_0: Er çonío no çeça.
 ST11_SERENO/DLG_1101_1: Rêtta çobre êttô murô orbidáô, çin que nadie pueda determinâh çu proçedençia o çu înnoto dêttino.
@@ -1079,9 +1028,6 @@ ST14_LOTL/DLG_1406_1: Eyô me creyeron un çanto dînno de deboçionê y lo úni
 ST14_LOTL/DLG_1406_2: Er câttigo der Milagro ar farço ídolo êh otorgâl-le farça çantidá.
 ST14_LOTL/DLG_1406_3: No queráî çabêh mi nombre puê también êttá cubierto de çâh.
 ST14_LOTL/DLG_1410_0: Traêmme lo que pueda çêh bendeçío y açí bô podáî quebrâh êtte dêttino mío pa deharme cruçâh al otro lao de êtte farço çueño.
-ST14_LOTL/DLG_QT_1401_0: 
-ST14_LOTL/DLG_QT_1402_0: 
-ST14_LOTL/DLG_QT_1403_0: 
 ST15_MOONCHILD/DLG_1501_0: Penitente çin nombre, encontrá a mî ermanô y giâl-lê âtta mi.
 ST15_MOONCHILD/DLG_1502_0: Penitente, al encontrâh a êttô çantô ermanô abéî completao la biçión de mi alumbramiento que fue pintá en un lienço que çe encontraba dormío.
 ST15_MOONCHILD/DLG_1502_1: Çiendo Hoçinero mi nombre, naçí de la luna y der tormento de un toro brabo, y de mí, por la graçia de lâ artâ boluntadê, mî çantô ermanô.
@@ -1103,10 +1049,6 @@ ST17_ALTASGRACIAS/DLG_1706_0: Nuêttrâ boçê yenâ de rabia fueron proibidâ. 
 ST17_ALTASGRACIAS/DLG_1706_1: Recordá que çolo la Çantidá puede bendeçîh êtte regalo pa que êtté libre de pecao.
 ST17_ALTASGRACIAS/DLG_1706_2: Nuêttrâ boçê pueden çêh un amparo en lâ çendâ por lâ que ô yeben buêttrô paçô benturoçô.
 ST17_ALTASGRACIAS/DLG_1707_0: Marxaô aora. Nuêttrâ deformidadê partirán al otro lao der Çueño pa encontrâh er perdón.
-ST17_ALTASGRACIAS/DLG_QT_1701_0: 
-ST17_ALTASGRACIAS/DLG_QT_1702_0: 
-ST17_ALTASGRACIAS/DLG_QT_1703_0: 
-ST17_ALTASGRACIAS/DLG_QT_1704_0: 
 ST18_NAZARIO/MSG_1801_0: La Birtûh de Mea Curpa a âççendío.
 ST20_CORPSES/DLG_2001_0: E preçençiao la êççumaçión del Arçobîppo. Bi como limpiaban çû gueçô en bino pa luego bêttîl-lo en çedâ y oro. Bi como colocaban lâ mâh beyâ hoyâ çobre çu rôttro pa luego beçâh çu frente. Bi como ençortihaban çû dedô pa luego beçâh çû manô. Lo arçaban pronunçiando çu nombre y lo meçían pa que pareçieçe que caminaba de nuebo.
 ST20_CORPSES/DLG_2002_0: Çiento a Nuêttra Çeñora entre êttô murô. Çiento çu calôh, puê çu rôttro çige quemándoçe, recordándole çu çacrifiçio y er nuêttro. Er dolôh, er frío y la quemadura çon nuêttrâ Reglâ.
@@ -1144,7 +1086,6 @@ ST20_CORPSES/DLG_2031_0: Lâ aguâ êttán liçâ y ôccurâ como er mármô mâ
 ST20_CORPSES/DLG_2032_0: Debemô borbêh. E bîtto la çombra, e bîtto el oro baho el agua negra. Debemô borbêh, er mâh tiembla cuando eya êttá çerca.
 ST20_CORPSES/DLG_2033_0: E bîtto a la çeñora, la penitente de oro y bordáô, la der yermo cuyo reliebe cubre çû ohô, mirando al atardeçêh detenío y mardito...
 ST20_CORPSES/DLG_2034_0: Que er Milagro ampare lâ armâ que, dêpprebenidâ, oçen deçafiâh ar coro de cráneo y tuétano, puê la cantora no permitirá que çu copla çea interrumpida.
-ST21_JAILED_GHOST/DLG_QT_2101_0: 
 ST21_JAILED_GHOST/MSG_2101_0: Nuebo mîtterio de roçario dîpponible.
 ST21_JAILED_GHOST/DLG_2101_0: No temáî a mi cuerpo, que tanto claridá y ôccuridá atrabieçan; ni a mi rôttro, dêffigurao entre êttâ rehâ de oro.
 ST21_JAILED_GHOST/DLG_2101_1: Çoledá por nombre, fui ençerrá por orden de Çu Çantidá en êtta haula que luego er Milagro çe encargó de ônnamentâh.
@@ -1302,10 +1243,6 @@ ST203_ABNEGATION/DLG_20308_0: Liberá de lâ cadenâ al arma cuya profeçión de
 ST203_ABNEGATION/DLG_20308_1: El arma de Criçanta de la Agonía Bendá.
 ST203_ABNEGATION/DLG_20308_2: Y açí la iráî, con la mayôh de toâ lâ eridâ. La erida en el arma.
 ST203_ABNEGATION/DLG_20308_3: La mayôh... de toâ lâ eridâ...
-ST203_ABNEGATION/DLG_QT_20301_0: 
-ST203_ABNEGATION/DLG_QT_20301_1: 
-ST203_ABNEGATION/DLG_QT_20302_0: 
-ST203_ABNEGATION/DLG_QT_20302_1: 
 ST204_HIGH_WILLS/DLG_20401_0: Penitente, que benîh ante nuêttrâ preçençiâ.
 ST204_HIGH_WILLS/DLG_20401_1: Que traéî lâ curpâ ar mâh çagrao de lô lugarê, ar mâh proibío de lô templô.
 ST204_HIGH_WILLS/DLG_20401_2: Quebrantando toâ lâ leyê y profanando açí a la mîmmíçima Çantidá.
@@ -1367,11 +1304,7 @@ BOSSES/DLG_BS203_06_0: Aora dehá que buêttro cuerpo, como er mío, de çangre 
 BOSSES/DLG_BS203_06_1: Êtte çerá buêttro campoçanto, mâ nadie aquí podrá belâh por bô.
 ST201_UNDERTAKER/DLG_20112_0: Lô gueçô ô agradeçen buêttro fabôh, Penitente en la birtûh.
 ST201_UNDERTAKER/DLG_20112_1: Traé lô gueçô ante mí, y conoçeremô la berdá que cayan.
-CUTSCENE/CTS301-EndingC_0: 
-CUTSCENE/CTS303-NewMartyr_0: 
 TearsObject/Generic_CAPTION: Lágrimâ de Êmmienda
-TearsObject/Generic_DESCRIPTION: 
-TearsObject/Generic_LORE: 
 Prayer/PR01_CAPTION: Çeguiriya a Tû Luçerô
 Prayer/PR01_DESCRIPTION: Brebe canto a lô çielô nôttûnnô. Embarga a Penitente con la furia de lô hûttô, aumentando la beloçidá de çû ataquê por un tiempo.
 Prayer/PR01_LORE: Ay una niña con dôh luçerô@Que cuando me mira a çu bera me quedo@@Diçen que êh çanta, que bahó der çielo@No yorê niña que por er camino me pierdo@@¿Qué êh lo que çuena?@Lâ campanâ a lo lehô@@¿Qué êh lo que yora?@En çu carita dôh luçerô
@@ -1425,136 +1358,92 @@ Prayer/PR203_DESCRIPTION: Plegaria que abuça de lâ bondadê der Milagro pa ça
 Prayer/PR203_LORE: Yo no le temo ar câttigo@@por querêh çaber@@lo que êttá proibío,@@por preguntar@@más de lo debío,@@por querêh mirar@@lo que êttá trâ olibô.@@Yo no le temo ar câttigo@@Puê tó biene der Dibino.
 CollectibleItem/CO01_CAPTION: Parietâh de Lâççêh, el Inquiçidôh
 CollectibleItem/CO01_DESCRIPTION: A diferençia de otrô inquiçidorê, Lâççêh môttró una inuçitá indurhençia açia lô acuçáô, yegando incluço a detenêh ehecuçionê. Çu debilidá le yebó a la êccomurgaçión y ar dêttierro.
-CollectibleItem/CO01_LORE: 
 CollectibleItem/CO02_CAPTION: Mandíbula de Âggan, el Inquiçidôh
 CollectibleItem/CO02_DESCRIPTION: Âggan bûccó deçêpperao rêppuêttâ a çu credo a trabêh de la tortura, condenando pa eyo incluço a miembrô der çaçerdoçio. No ayó mâh que arrepentimiento en çû âttô.
-CollectibleItem/CO02_LORE: 
 CollectibleItem/CO03_CAPTION: Çerbicâh de Çixêh, er Çerbeçero
 CollectibleItem/CO03_DESCRIPTION: Çixêh, el "Maêttro Çerbeçero", dio înnoble fama a çu monâtterio elaborando la çerbeça mâh famoça del reino. Una noxe, lâ yamâ de un inçendio elebaron çu leyenda a lô çielô.
-CollectibleItem/CO03_LORE: 
 CollectibleItem/CO04_CAPTION: Clabícula de Daluiçen, er Pupilo
 CollectibleItem/CO04_DESCRIPTION: Lo bûccaron durante díâ âtta que dieron con lô rêttô de Mark en er bôqque. Dêdde entonçê çirculan rumorê çobre demoniô a lomô de cabrâ boladorâ, benidâ de otrâ tierrâ.
-CollectibleItem/CO04_LORE: 
 CollectibleItem/CO05_CAPTION: Êttênnón de Bitâ, el Âttôh
 CollectibleItem/CO05_DESCRIPTION: Cûttodia recuerda con âmmiraçión la figura de Bitâ Bânnâ. No çólo îppiró la bida de çû hentê a trabêh de çû artruîttâ âççionê, çino también graçiâ a çû îppiradorâ palabrâ.
-CollectibleItem/CO05_LORE: 
 CollectibleItem/CO06_CAPTION: Côttiyâ de Çânnock, er Guardián
 CollectibleItem/CO06_DESCRIPTION: La Lehión Unhida contó entre çû filâ con Çânnock, guardián y portadôh der Çeyo del Retorçío. Protehió con fiereça lâ puertâ de la çiudá, incluço trâ arçarçe er caô.
-CollectibleItem/CO06_LORE: 
 CollectibleItem/CO07_CAPTION: Vértebra de Hon, er Hugadôh
 CollectibleItem/CO07_DESCRIPTION: Conoçío por çû abilidadê en er huego, muxô creían que la çuerte de Hon Bon Gâmmeramindz fue giá por lâ Artâ Boluntadê. Er día que terminó çu çuerte, çu bida iço lo mîmmo.
-CollectibleItem/CO07_LORE: 
 CollectibleItem/CO08_CAPTION: Omóplato de Câl-lô, el Ehecutôh
 CollectibleItem/CO08_DESCRIPTION: Çu odio por lâ perçonâ fue tan grande como çu amôh por lô animalê. Cuando le ordenaron ehecutâh a un perro que abía mordío a un obîppo, Câl-lô çe negó por primera y úrtima bêh.
-CollectibleItem/CO08_LORE: 
 CollectibleItem/CO09_CAPTION: Húmero de McMîttens, el Enfermero
 CollectibleItem/CO09_DESCRIPTION: Enfermero y amante de lô gatô, McMîttens çarbó incontablê bidâ, fueçen umanâ o no. Por no çoportâh çarbâh a quienê no môttraban rêppeto por la bida, dio fin a la çuya propia.
-CollectibleItem/CO09_LORE: 
 CollectibleItem/CO10_CAPTION: Cúbito de Koke, er Trobadôh
 CollectibleItem/CO10_DESCRIPTION: Lô inquiçidorê detêttaban la múçica ya que induçía a la euforia. Koke creyó oportuno dedicâh una çatírica toná a êttô prêbbíterô en público. Çu ehecuçión preçedió a la proibiçión totâh de la múçica.
-CollectibleItem/CO10_LORE: 
 CollectibleItem/CO11_CAPTION: Radio de Erçêh, er Poeta
 CollectibleItem/CO11_DESCRIPTION: La obra der poeta Hon Clark Erçêh tubo un trîtte éççito póttumo, êppeçiarmente çu "Poema a la Oha Roha". Dixo poema fue encontrao hunto a çu cadábê, çêççionao por un árbô caío.
-CollectibleItem/CO11_LORE: 
 CollectibleItem/CO12_CAPTION: Frontâh de Martinû, er Cordelero
 CollectibleItem/CO12_DESCRIPTION: El arteçano Martinû Ânnia fue inhûttamente acuçao de bendêh cuerdâ quebradiçâ y çentençiao a çêh aorcao con una de çû propiâ creaçionê. Eçe trîtte día recuperó çu onôh.
-CollectibleItem/CO12_LORE: 
 CollectibleItem/CO13_CAPTION: Metacarpo de Ôhhê, el Errero
 CollectibleItem/CO13_DESCRIPTION: El errero Brendan Ôhhê forhó argunâ de lâ armâ mâh beyâ de Cûttodia, portâh por la mîmmíçima Lehión Unhida. Er dêttino quiço que fueçe una de çû armâ la que le dieçe muerte.
-CollectibleItem/CO13_LORE: 
 CollectibleItem/CO14_CAPTION: Falanhe de Artûh, er Marinero
 CollectibleItem/CO14_DESCRIPTION: Dedicó toa çu bida a bûccâh un mîtterioço totem. Êtte têttimonio probaría la êççîttençia de un câttiyo impoçible côttruío baho er mâh, protehío por çû inçeçantê olâ.
-CollectibleItem/CO14_LORE: 
 CollectibleItem/CO15_CAPTION: Falanhe de Miriam, la Conçehera
 CollectibleItem/CO15_DESCRIPTION: Miriam Barto çabía qué era neçeçario pa arcançâh el éççito, pero er dêttino êh impredeçible. Peçe a que una terrible enfermedá acortó çu bida, çu legao fue etênno pa quienê la amaron.
-CollectibleItem/CO15_LORE: 
 CollectibleItem/CO16_CAPTION: Falanhe de Brânnon, er Çepurturero
 CollectibleItem/CO16_DESCRIPTION: Brânnon Hôggua Muyins cabó lâ tumbâ de çientô a lo largo de çu bida, ya fueçen amigô, familiarê o enemigô... pero cuando començó er caô, no quedó nadie pa deborbêl-le er fabôh.
-CollectibleItem/CO16_LORE: 
 CollectibleItem/CO17_CAPTION: Côççâh de Hune, la Prôttituta
 CollectibleItem/CO17_DESCRIPTION: Populâh entre el obîppao, Hune Çayers çeduho y corrompió la boluntá y er boto de câttidá de gran parte der çaçerdoçio, pero çu îmmunidá terminó cuando cayeron lâ primerâ çeniçâ.
-CollectibleItem/CO17_LORE: 
 CollectibleItem/CO18_CAPTION: Çacro de "êh Exiçero Ôccuro"
 CollectibleItem/CO18_DESCRIPTION: Fundadôh de la "Biblioteca de lâ Palabrâ Negâh", êtte çaçerdote fue conoçío con er çobrenombre de "êh Ôccuro". Fue çorprendío prâtticando la exiçería, rodeao de êccritô paganô.
-CollectibleItem/CO18_LORE: 
 CollectibleItem/CO19_CAPTION: Côççî de Daniêh, er Poçeío
 CollectibleItem/CO19_DESCRIPTION: Çe cuenta que Daniêh apareçió dentro de un câttiyo. Boçiferaba êttâh poçeío por una çombra cuando dormía y también abêh mantenío relaçionê cânnalê con enhendrô der çûççuelo.
-CollectibleItem/CO19_LORE: 
 CollectibleItem/CO20_CAPTION: Fémû de Karpow, er Caçarrecompençâ
 CollectibleItem/CO20_DESCRIPTION: Karpow, apodao "êh Oçao", fue un temío caçarrecompençâ ar çerbiçio del obîppao de Cûttodia. Karpow tenía un apreçiao lema: "dêppréndete de tó y no tendrâh ná que perder".
-CollectibleItem/CO20_LORE: 
 CollectibleItem/CO21_CAPTION: Rótula de Çébâttien, er Titiritero
 CollectibleItem/CO21_DESCRIPTION: Çébâttien Wôhha bibió rodeao de marionetâ. Pa él eran como çu familia. Çû gritô marcaron la noxe en la que deçapareçió entre lâ yamâ de çu teatro, êcclamando: "¡Ô proíbo que ô mobáî!"
-CollectibleItem/CO21_LORE: 
 CollectibleItem/CO22_CAPTION: Tibia de Arçali, el Míttico
 CollectibleItem/CO22_DESCRIPTION: Arçali nunca creyó en la autoridá de la Çanta Çede de Cûttodia. Açeguraba incluço abêh conçegío contâttâh con lâ Artâ Boluntadê por cuenta propia: "Çêh ferboroço. Eçe êh er çecreto".
-CollectibleItem/CO22_LORE: 
 CollectibleItem/CO23_CAPTION: Peroné de Rysp, er Guardabôqquê
 CollectibleItem/CO23_DESCRIPTION: Rysp Scrimçaw era conoçío por çû temerariô paçeô nôttûnnô por er bôqque. Ér deçía que le ayudaban a pençâh en lo que abía "mâh ayá", mâh ayá incluço que lâ Artâ Boluntadê.
-CollectibleItem/CO23_LORE: 
 CollectibleItem/CO24_CAPTION: Temporâh de Hoêh, er Ladrón
 CollectibleItem/CO24_DESCRIPTION: Hoêh çiempre robaba pa ayudâh ar próhimo. Un día arriêggó demaçiao y fue çorprendío robando la êttola enhoyá der mîmmíçimo Pontífiçe. Nadie hamâh çufrió una tortura mayôh en Cûttodia.
-CollectibleItem/CO24_LORE: 
 CollectibleItem/CO25_CAPTION: Metatarço de Rikûyyo, er Biahero
 CollectibleItem/CO25_DESCRIPTION: Apenâ çe conoçen detayê de çu orihen, pero quienê çe cruçaron en çu camino luego açeguraban que Rikûyyo portaba un pequeño y êttraño plato luminoço que emitía una débî bôh.
-CollectibleItem/CO25_LORE: 
 CollectibleItem/CO26_CAPTION: Falanhe de Çêh, er Priçionero
 CollectibleItem/CO26_DESCRIPTION: Çêh Corçica fue çentençiao a cadena perpetua en réhimen de aîl-lamiento âççoluto. Murmuraba côttantemente argo çobre unâ boçê en çu cabeça. ¿Fue una de eyâ la que le empuhó ar çuiçidio?
-CollectibleItem/CO26_LORE: 
 CollectibleItem/CO27_CAPTION: Falanhe de Wiyiam, el Êççéttico
 CollectibleItem/CO27_DESCRIPTION: Wiyiam Grâh dedicó çu bida a êpponêh a xâl-latanê y ebanhelîttâ embûtterô. Incluço puço en duda la çantidá de çiertô miembrô de la igleçia de Cûttodia. Çu erehía no ôttubo perdón.
-CollectibleItem/CO27_LORE: 
 CollectibleItem/CO28_CAPTION: Falanhe de Ararcarim, el Arxibîtta
 CollectibleItem/CO28_DESCRIPTION: Ararcarim trabahó de arxibîtta en la "Biblioteca de lâ Palabrâ Negâh". Çu elebao interêh por lô êccritô de Cûttodia antê de la apariçión del Retorçío le côttó er dêttierro.
-CollectibleItem/CO28_LORE: 
 CollectibleItem/CO29_CAPTION: Ôççipitâh de Tequila, el Orfebre
 CollectibleItem/CO29_DESCRIPTION: Tequila no era un orfebre común: lâ oçamentâ eran la baçe de çû creaçionê y lô cráneô enhoyáô çu êppeçialidá. Çu úrtima boluntá fue combertirçe en la pieça mâh beya de çu colêççión.
-CollectibleItem/CO29_LORE: 
 CollectibleItem/CO30_CAPTION: Mâççilâh de Tarradâh, er Clérigo
 CollectibleItem/CO30_DESCRIPTION: Con çu anxa çonriça y agradablê manerâ, Nicodemû Tarradâh nunca negó refuhio a nadie en çu igleçia. El ayâggo de una pila de gueçô en la çacrîttía rebeló çû berdaderâ intençionê.
-CollectibleItem/CO30_LORE: 
 CollectibleItem/CO31_CAPTION: Naçâh de Xâl-lê, el Artîtta
 CollectibleItem/CO31_DESCRIPTION: La beyeça de çu obra iniçió un fuerte debate en er çeno de la igleçia. Çe ordenó que ninguna repreçentaçión podía çêh mâh beya que la bida mîmma. La colêççión de Dryden fue requiçá y él, orbidao.
-CollectibleItem/CO31_LORE: 
 CollectibleItem/CO32_CAPTION: Ioidê de Çenêh, er Pordioçero
 CollectibleItem/CO32_DESCRIPTION: Çenêh paçó toa una bida uyendo der dolôh, probocando mâh y mâh çufrimiento a çu atormentá arma. Çólo cuando açêttó er dolôh como parte de çu bida encontró çentío en eya.
-CollectibleItem/CO32_LORE: 
 CollectibleItem/CO33_CAPTION: Vértebra de Lindquîtt, er Forhadôh
 CollectibleItem/CO33_DESCRIPTION: Ayá donde tañe una campana en Cûttodia, çu çonío debe çu êççîttençia a Lindquîtt. Êtte forhadôh nunca yegó a bêh çu êpperpéntica obra mânna concluida, la cuâ reçibe er nombre de "Hondo".
-CollectibleItem/CO33_LORE: 
 CollectibleItem/CO34_CAPTION: Trapeçio de Heremia, er Berdugo
 CollectibleItem/CO34_DESCRIPTION: Heremia Sxweihêh acabó con la bida de milê de reô durante décadâ, confiando en que çu labôh era çagrá. Cuando la duda imbadió çu mente, el arrepentimiento lo debâttó.
-CollectibleItem/CO34_LORE: 
 CollectibleItem/CO35_CAPTION: Trapeçoide de Yeahêh, er Hoyero
 CollectibleItem/CO35_DESCRIPTION: Inhûttamente çentençiáô a la ogera por orden del Inquiçidôh Âggan, la familia de Tyrant Yeahêh çe combirtió en çeniça. Çegao por la bengança, forhó un aniyo con dixô rêttô que çe cree mardito.
-CollectibleItem/CO35_LORE: 
 CollectibleItem/CO36_CAPTION: Grande de Barôh, er Pregonero
 CollectibleItem/CO36_DESCRIPTION: Fueçen ehecuçionê o açotamientô, Barôh çiempre êttubo aí pa pregonâl-lô a biba bôh, pero çu bôh çe fue rompiendo cuando día trâ día tubo que anunçiâh lâ çentençiâ de toa çu familia.
-CollectibleItem/CO36_LORE: 
 CollectibleItem/CO37_CAPTION: Ganxoço de Bukelîh, er Copîtta
 CollectibleItem/CO37_DESCRIPTION: Aprobexándoçe de una bula pontifiçia, Bukelîh fue çorprendío çûttrayendo un libro proibío çobre conoçimientô arcanô. Çû manô no borbieron a êccribîh dêdde eçe día.
-CollectibleItem/CO37_LORE: 
 CollectibleItem/CO38_CAPTION: Piçiforme de Ênnándê, el Êpploradôh
 CollectibleItem/CO38_DESCRIPTION: Víttô Ênnándê fue elehío pa liderâh una êppediçión con er fin de "çibiliçar" pueblô bárbarô. Fue çentençiao por erehía cuando çuhirió que Cûttodia era er mâh inçíbico de lô lugarê conoçíô.
-CollectibleItem/CO38_LORE: 
 CollectibleItem/CO39_CAPTION: Piramidâh de Luca, er Çâttre
 CollectibleItem/CO39_DESCRIPTION: Çoñó durante toa çu bida con confêççionâh beyô ropahê pa la nobleça, pero ya çercano er día de çu muerte, lo único que abía tenío la oportunidá de tehêh fueron çambenitô.
-CollectibleItem/CO39_LORE: 
 CollectibleItem/CO40_CAPTION: Çemilunâh de Keiya, er Cânniçero
 CollectibleItem/CO40_DESCRIPTION: Er çobrenombre de "êh Cânniçero" no çe debía a çu profeçión, çino a çû çanginariâ âttitudê pa er combate como çordao. Ni çiquiera la corrûççión pareçió arterâh çu trâttônná perçonalidá.
-CollectibleItem/CO40_LORE: 
 CollectibleItem/CO41_CAPTION: Êccafoide de Fierçe, er Leproço
 CollectibleItem/CO41_DESCRIPTION: Rexaçao por çu familia, por çu pueblo e incluço por otrô leproçô, Fierçe çólo encontró conçuelo en el eco que çu bôh le deborbía cuando çe refuhió en lô túnelê del Arhibe Profanao.
-CollectibleItem/CO41_LORE: 
 CollectibleItem/CO42_CAPTION: Âttrágalo de Wêtton, er Peregrino
 CollectibleItem/CO42_DESCRIPTION: Çu compañero de biahe le açeguró que le êpperaría en er çigiente refuhio, a tan çólo una hônná de dîttançia. Cuando Wêtton yegó ar día çigiente, no ubo nadie ayí. Ar çigiente, tampoco.
-CollectibleItem/CO42_LORE: 
 CollectibleItem/CO43_CAPTION: Carcáneo de Perçian, er Bandolero
 CollectibleItem/CO43_DESCRIPTION: Temío por çû paiçanô, Perçian açartaba caminô çin dîttingîh entre ricô o pobrê, y çiempre en çolitario. Er día que yegó moribundo a Arbero, âççolutamente nadie çe apiadó de él.
-CollectibleItem/CO43_LORE: 
 CollectibleItem/CO44_CAPTION: Nabiculâh de Kânnyoo, el Açeçino
 CollectibleItem/CO44_DESCRIPTION: Kânnyoo, aunque torpe, çupo aprobexâh çu âppêtto alegre y hobiâh pa embaucâh a mercaderê y clérigô con la intençión de dâl-lê muerte y robâl-lê çû pertenençiâ.
-CollectibleItem/CO44_LORE: 
 RosaryBead/RB01_CAPTION: Cráneo de Paloma
 RosaryBead/RB01_DESCRIPTION: Calabera de abe, perforá como engarçe. Çu aparente frahilidá potençia liheramente lâ defençâ de Penitente.
 RosaryBead/RB01_LORE: Aqueya mañana, cuando lâ ogerâ çe ençendieron y lô condenáô començaron çû terriblê çúplicâ a lô impaçiblê inquiçidorê, una paloma blanca bahó de entre lô umô y çe poçó en el ombro de uno de lô curpáô y aí permaneçió âtta que ardió hunto a él.
@@ -1880,8 +1769,6 @@ QuestItem/QI77_CAPTION: Cálî de lô Berçô Imbertíô
 QuestItem/QI77_DESCRIPTION: Copa de ierro ôççidao, de apariençia çençiya. Çu interiôh repuhao en dêl-luçida plata preçenta ilerâ de berçô en êppirâh, que dêççienden âtta er fondo. Çû rimâ ablan de bêttiâ paganâ y frutâ proibidâ.@La copa êttá completamente yena de Lágrimâ de Êmmienda, coçexâh por Mea Curpa.
 QuestItem/QI77_LORE: -Bien, padre. ¿Dónde êttán tôh lô ídolô, pinturâ y figurâ, que la Madre a requiçao y proibío? Çi çon îppirâh por la fe en nuêttro Milagro no an debío de çêh dêttruidâ, ya que çería un grabe pecao. -No lo çé iho mío, pero apôttaría mi fe, a que eçâ galeríâ çûtterráneâ contienen argo mâh que aire.
 QuestItem/QI78_CAPTION: Lágrimâ de Êmmienda
-QuestItem/QI78_DESCRIPTION: 
-QuestItem/QI78_LORE: 
 QuestItem/QI79_CAPTION: Çarça Carmeçí
 QuestItem/QI79_DESCRIPTION: Pequeño ôççequio de Deograçiâ, clabao en la efihie del Retorçío baho la guardia de tu êppá. Lâ êppinâ çurhidâ der Milagro çe alimentan der pecao y la curpa, creçiendo hunto a la carga que çu portadôh yebe çobre çû ombrô.
 QuestItem/QI79_LORE: Dêppedida de Deograçiâh@@"Ermano Abá, çabe que e çido êccribano en êtta abadía dêdde que era mu hoben. E êccrito çobre nuêttra igleçia, nuêttrô çantô y nuêttro Milagro der Mayôh Dolôh. Tengo que deçîl-le que e tomao la deçiçión de marxarme, aunque no de dehâh de êccribîh. En êttô murô no puedo çêh berdadero têttigo de lâ obrâ der Milagro. Neçeçito apreçiâh con mî propiô ohô çû çantâ obrâ. Çeré relatôh der Milagro adonde quiera que me yebe, yueba, niebe, o aya arenâ baho mî piê dêccarçô."

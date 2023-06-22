@@ -12,12 +12,11 @@ namespace Andalusian
 
         private readonly Dictionary<string, string> andalusianLanguage = new();
 
+        private bool _loadedLanguage = false;
+
         protected override void Initialize()
         {
-            LoadText();
-            ReplaceText();
-            Framework.Managers.Core.Localization.SetLanguageByIdx(0);
-            Log("Loaded and replaced Andalusian text!");
+            
         }
 
         protected override void Update()
@@ -28,9 +27,23 @@ namespace Andalusian
             //}
             //if (UnityEngine.Input.GetKeyDown(KeyCode.O))
             //{
-            //    Core.Localization.SetLanguageByIdx(0);
+            //    Framework.Managers.Core.Localization.SetLanguageByIdx(1);
+            //    Framework.Managers.Core.Localization.SetLanguageByIdx(0);
             //    LogWarning("Setting language");
             //}
+        }
+
+        protected override void LevelLoaded(string oldLevel, string newLevel)
+        {
+            if (!_loadedLanguage && newLevel == "MainMenu")
+            {
+                Log("Setting language to Andalusian!");
+                LoadText();
+                ReplaceText();
+                Framework.Managers.Core.Localization.SetLanguageByIdx(1);
+                Framework.Managers.Core.Localization.SetLanguageByIdx(0);
+                _loadedLanguage = true;
+            }
         }
 
         void ReplaceText()

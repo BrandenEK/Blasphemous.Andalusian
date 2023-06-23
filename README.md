@@ -5,4 +5,4 @@
 - Translates all of the text in the game, including UI and dialogue
 
 ## Credits
-- The vast majority of credit for this mod goes to LuceScarlet for translating all of the base game text
+- The vast majority of credit for this mod goes to E. Lucía Ruiz (LuceScarlet) and SteveBass7 for translating all of the base game text

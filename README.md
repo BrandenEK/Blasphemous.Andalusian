@@ -1,4 +1,4 @@
-# Blasphemous-Andalusian
+# Blasphemous Andalusian
 
 ## Features:
 - Adds the Andalusian language as a selectable option in the language menu

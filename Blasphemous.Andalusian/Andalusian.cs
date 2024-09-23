@@ -41,14 +41,14 @@ public class Andalusian : BlasMod
             }
         }
 
-        Log($"Added {count} terms for Andalusian translation");
+        ModLog.Info($"Added {count} terms for Andalusian translation");
     }
 
     private void LoadText()
     {
         if (!FileHandler.LoadDataAsText("language.txt", out string text))
         {
-            LogDisplay("Could not load the language.txt file!");
+            ModLog.Display("Could not load the language.txt file!");
             return;
         }
 
